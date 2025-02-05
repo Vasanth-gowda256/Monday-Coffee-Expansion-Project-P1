@@ -1,5 +1,4 @@
 # Monday-Coffee-Expansion-Project-P1
 
 
-
-[Monday Coffee Presentation.pdf](https://github.com/user-attachments/files/18667833/Monday.Coffee.Presentation.pdf)
+![Slide1](https://github.com/user-attachments/assets/ea42295b-8688-4748-892e-f1af9d8f6481)
