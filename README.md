@@ -32,6 +32,7 @@ and to recommend the top three major cities in India for opening new coffee shop
   -->Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer
 
 **Recommendations**
+
 After analyzing the data, the recommended top three cities for new store openings are:
 
 **City 1: Pune**
